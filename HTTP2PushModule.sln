@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP2PushModule", "src\HTTP2PushModule\HTTP2PushModule.csproj", "{3A83E288-DAD4-467D-AD50-68EB2377CD17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP2PushModule", "src\HTTP2PushModule.csproj", "{3A83E288-DAD4-467D-AD50-68EB2377CD17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
