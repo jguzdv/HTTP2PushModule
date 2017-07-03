@@ -1,0 +1,8 @@
+﻿<!-- usage-->
+<PushGroupSection>
+  <PushGroup name="group1">
+    <PushElement triggers="true" url="~/main.html" />
+    <PushElement url="~/app.js" />
+    <PushElement url="~/dependency.js" />
+  </PushGroup>
+</PushGroupSection>
