@@ -7,7 +7,7 @@
     <ProjectGuid>{3A83E288-DAD4-467D-AD50-68EB2377CD17}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HTTP2PushModule</RootNamespace>
+    <RootNamespace>ZDV.HTTP2PushModule</RootNamespace>
     <AssemblyName>HTTP2PushModule</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
